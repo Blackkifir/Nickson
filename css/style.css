@@ -1,0 +1,35 @@
+.container {
+    max-width: 1215px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.divOne {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    margin: 200px 0 200px 0;
+}
+
+.btn {
+    color: white;
+    background-color: black;
+    padding: 20px 50px 20px 50px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+
+.divTwo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle {
+    background-color:  blueviolet;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
